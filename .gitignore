@@ -1,0 +1,6 @@
+env
+venv
+*.pyc
+*.sh
+*secret.*
+.DS_Store
